@@ -42,7 +42,7 @@ Me encanta jugar baloncesto, correr y probar comida nueva mientras programo 😄
 ---
 
 ## 🏆 Trofeos de GitHub:
-![Trophies](https://github-profile-trophy.vercel.app/?username=StuartPalma&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=StuartPalma&theme=algolia&no-frame=true&margin-w=10)
 
 ---
 
