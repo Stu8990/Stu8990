@@ -36,7 +36,7 @@ Me encanta jugar baloncesto, correr y probar comida nueva mientras programo 😄
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StuartPalma&theme=radical&hide_border=false&include_all_commits=false&count_private=false)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=StuartPalma&theme=radical&hide_border=false)  
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StuartPalma&theme=radical&hide_border=false&layout=compact)
 
 ---
