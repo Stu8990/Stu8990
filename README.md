@@ -22,6 +22,7 @@ Me encanta jugar baloncesto, correr y probar comida nueva mientras programo 😄
 ## 🌐 Redes sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/StuartPalma) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jhou2013x@hotmail.com) 
+[![CV](https://img.shields.io/badge/CV-ORANGE)](https://stu8990.github.io/Hoja-de-Vida/)
 
 ---
 
