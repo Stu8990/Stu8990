@@ -1,15 +1,15 @@
 # 💫 Sobre mí:
 🎯 Actualmente estoy trabajando en  
-Un bot de Telegram para agendar citas de reparación de laptops y una aplicación terapéutica web alojada en Firestore.  
+Dentro de EXPOFLORES en el area de sistemas en el area de desarrollo WEB y manejo de bases de dtaos.  
   
 🤝 Busco colaborar en  
-Proyectos de desarrollo web, automatización de procesos y ciberseguridad.  
+Proyectos de desarrollo web, automatización de procesos y proyectos de desarrollo movil.  
   
 🧠 Busco ayuda con  
-Optimización de bases de datos distribuidas y buenas prácticas de seguridad en la nube (AZ-500, CISSP).  
+Manejo de herramientas de analizis de datos como es powerBi y R.
   
 🌱 Actualmente estoy aprendiendo  
-Ciberseguridad avanzada, gestión de servidores distribuidos y desarrollo de apps móviles con Flutter.  
+PowerBi para certificacion, gestión de servidores distribuidos y desarrollo de apps móviles con Flutter.  
   
 💬 Pregúntame sobre  
 Java, Python, SQL, extracción de datos de PDFs, bots con APIs, y cómo crear un juego de Pacman desde cero.  
