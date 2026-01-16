@@ -1,5 +1,5 @@
 # 💫 Sobre mí:
-🎯 Actualmente estoy trabajando en  
+🎯 Actualmente estoy trabajando   
 Dentro de EXPOFLORES en el area de sistemas en el area de desarrollo WEB y manejo de bases de dtaos.  
   
 🤝 Busco colaborar en  
